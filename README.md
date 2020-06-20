@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.png">
+    <img alt="Logo" title="#logo" width="175px" src=".github/logo.png">
     <br><br>
     <b>Recycle and save the environment</b> 
 </h3>
@@ -20,14 +20,14 @@
 
 <h1 align="center">
     <img alt="Web" src=".github/web.png" width="500px">
-    <img alt="Server" src=".github/server.png" width="300px">
+    <img alt="Server" src=".github/server.png" width="500px">
 </h1>
 
 ## :fire: Live Demo
 
 
 **[Server](https://betha-api.herokuapp.com/swagger-ui.html)**
-#####*Start the server before the web client*
+##### *Start the server before the web client*
 
 **[Web](http://betha-frontend.herokuapp.com/)**
 
