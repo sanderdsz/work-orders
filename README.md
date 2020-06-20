@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="175px" src=".github/logo.png">
     <br><br>
-    <b>Recycle and save the environment</b> 
+    <b>Organize your orders</b> 
 </h3>
 
 <p align="center">
